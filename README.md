@@ -1,6 +1,6 @@
 # python_grammar
 Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总结。每个部分的内容如下所示：<br>
-+ part_0
++ [part_0](https://github.com/whyAndBetter/python_grammar/tree/main/part_0 "part_0")
     - Python特点
     - Python解释器
     - 运行Python文件
@@ -58,4 +58,4 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
 ![Python_grammar_02_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_2/Python_grammar_02_思维导图.jpg) <br>
 ![Python_grammar_03_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_3/python_grammar_03_思维导图.jpg) <br>
 ![Python_grammar_04_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_4/python_grammar_04_思维导图.jpg) <br>
-注：由于外网因素，因此图片可能无法加载，将项目下载到本地后图片可以正常打开
+注：由于外网因素，因此图片可能无法加载，将项目下载到本地后图片可以正常打开。
