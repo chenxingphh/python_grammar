@@ -1,6 +1,6 @@
 # python_grammar
 Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总结。每个部分的内容如下所示：<br>
-+ [part_0](https://github.com/whyAndBetter/python_grammar/tree/main/part_0 "part_0")
++ [part_0](https://github.com/whyAndBetter/python_grammar/blob/main/part_0/python_grammar_00.ipynb "part_0")
     - Python特点
     - Python解释器
     - 运行Python文件
@@ -8,7 +8,7 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
     - 字符编码
         - ASCII编码
         - Unicode & UTF-8
-* part_1
+* [part_1](https://github.com/whyAndBetter/python_grammar/blob/main/part_1/python_grammar_01.ipynb "part_1")
     - 输入输出
         - 格式化输出
         - 键盘输入
@@ -21,7 +21,7 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
         - Dictionary（字典）
     - 强制类型转换
 
-* part_2
+* [part_2](https://github.com/whyAndBetter/python_grammar/blob/main/part_2/python_grammar_02.ipynb "part_2")
     - 条件判断&循环语句
         - if 条件语句
         - while 循环
@@ -33,7 +33,7 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
         - 参数类型
         - 匿名函数
 
-* part_3
+* [part_3](https://github.com/whyAndBetter/python_grammar/blob/main/part_3/python_grammar_03.ipynb "part_3")
     - 模块（Module）
     - 面向对象
         - 类定义
@@ -46,12 +46,12 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
         - 抛出异常
         - 自定义异常
         
-* part_4
+* [part_4](https://github.com/whyAndBetter/python_grammar/blob/main/part_4/python_grammar_04.ipynb "part_4")
     - 文件操作
         - 文件读写
         - 多行写入
     - 文件/目录常用方法
-    - 内置标准库
+    - 内置标准库（os, glob, sys, re, math, random, urllib, datetime）
 
 ## 各个部分的思维导图
 ![Python_grammar_01_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_1/Python_grammar_01_思维导图.jpg) <br>
