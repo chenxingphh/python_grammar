@@ -53,6 +53,8 @@ Python基础语法学习,part_1~part_4里面会有对应语法的思维导图总
     - 文件/目录常用方法
     - 内置标准库
 
-
+## 各个部分的思维导图
 ![Python_grammar_01_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_1/Python_grammar_01_思维导图.jpg)
-
+![Python_grammar_02_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_2/Python_grammar_02_思维导图.jpg)
+![Python_grammar_03_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_3/Python_grammar_03_思维导图.jpg)
+![Python_grammar_04_思维导图](https://github.com/whyAndBetter/python_grammar/blob/main/part_4/Python_grammar_04_思维导图.jpg)
